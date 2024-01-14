@@ -17,6 +17,7 @@
 
 
 ## :star2: About the Project
+ Project in dev-state
 
 ### :dart: Features
 - Linux support
