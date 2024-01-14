@@ -43,6 +43,6 @@ Project Link: [https://github.com/gorillq/csenth.git](https://github.com/gorillq
 
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+<!-- Use this section to mention useful resources and libraries that you have used in your projects. -->
 
 - [PStreams](https://pstreams.sourceforge.net/)
